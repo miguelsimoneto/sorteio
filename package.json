@@ -1,0 +1,22 @@
+{
+  "name": "sorteio",
+  "version": "1.0.0",
+  "description": "sorteio",
+  "main": "sorteio.js",
+  "scripts": {
+    "test": "sorteio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelsimoneto/sorteio.git"
+  },
+  "keywords": [
+    "sorteio"
+  ],
+  "author": "miguel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelsimoneto/sorteio/issues"
+  },
+  "homepage": "https://github.com/miguelsimoneto/sorteio#readme"
+}
